@@ -3,5 +3,5 @@
     android:shape="rectangle">
 
     <corners
-        android:radius="30dp"/>
+        android:radius="15dp"/>
 </shape>
