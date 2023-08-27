@@ -1,4 +1,4 @@
-package com.amazing.android.autopompomme
+package com.amazing.android.autopompomme.feature.login.activity
 
 import android.os.Bundle
 import android.widget.Toast

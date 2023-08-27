@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.amazing.android.autopompomme.databinding.ActivityStartBinding
+import com.amazing.android.autopompomme.feature.login.activity.LoginActivity
 
 class StartActivity : AppCompatActivity() {
 
